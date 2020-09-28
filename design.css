@@ -4,11 +4,11 @@ h2{color: #006600;font-family: 'Montserrat', sans-serif;font-size: 26px;}
 h3{color: #006600;font-family: 'Dancing Script', cursive;font-size: 25px;}
 p{line-height: 25px; font-size: 20px; color: black;}
 
-.FIRST {padding-top: 30px;background-color: #ccffcc; height: 595px;}
+.FIRST {padding-top: 30px;background-color: #ccffcc; height: 595px; width: 100%}
 .cloud1 {position: absolute;right: 20%; width: 100px;}
 .cloud2 {position: absolute;left: 20%; width: 100px;}
 .kayrie{margin-top: 50px;width: 300px;border-radius: 50%;}
-
+.SECOND {width:100%;}
 .container
 {
 	width: 1280px;
