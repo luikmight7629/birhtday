@@ -5,8 +5,8 @@ h3{color: #006600;font-family: 'Dancing Script', cursive;font-size: 25px;}
 p{line-height: 25px; font-size: 20px; color: black;}
 
 .FIRST {padding-top: 30px;background-color: #ccffcc; height: 595px; width: 100%}
-.cloud1 {position: absolute;right: 20%; width: 100px;}
-.cloud2 {position: absolute;left: 20%; width: 100px;}
+.cloud1 {position: absolute;right: 10%; width: 100px;}
+.cloud2 {position: absolute;left: 10%; width: 100px;}
 
 .SECOND {width: 100%}
 .kayrie{margin-top: 50px;width: 300px;border-radius: 50%;}
