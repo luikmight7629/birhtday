@@ -66,7 +66,7 @@ p{line-height: 25px; font-size: 20px; color: black;}
 
 .container .box:hover .details
 {
-		transform: scaleY(1);
+transform: scaleY(1);
 }
 
 .container .box .details .content
@@ -83,7 +83,6 @@ p{line-height: 25px; font-size: 20px; color: black;}
 {
 	margin: 0;
 	padding: 0;
-	/* */
-	font-size: 20px;
+	font-size: 15px;
 	color: #fff;
 }
